@@ -1,0 +1,47 @@
+Australia,Year2020,Direct Submission,21
+Japan,Year2021,DNA Research,10
+USA,Year2018,Nature Genetics,10
+USA,Year2021,G3-Genes Genomes Genetics,13
+USA,Year2022,G3-Genes Genomes Genetics,12
+USA,Year2022,other_publication,51
+USA,Year2023,International Journal of Molecular Sciences,11
+USA,Year2023,Frontiers in Plant Science,11
+China,Year2019,GigaScience,10
+China,Year2019,other_publication,60
+China,Year2018,GigaScience,13
+China,Year2021,Science China Life Sciences,30
+China,Year2021,PNAS,11
+China,Year2021,Molecular Ecology Resources,15
+China,Year2021,Nature Plants,15
+China,Year2021,Horticulture Research,35
+China,Year2021,Nature Communications,15
+China,Year2021,The Plant Journal,12
+China,Year2021,Plant Biotechnology Journal,14
+China,Year2021,other_publication,88
+China,Year2022,Nature Ecology & Evolution,49
+China,Year2022,Molecular Ecology Resources,10
+China,Year2022,DNA Research,16
+China,Year2022,Horticulture Research,24
+China,Year2022,Molecular Plant,19
+China,Year2022,Frontiers in Plant Science,34
+China,Year2022,Plant Communications,25
+China,Year2022,Nature Communications,16
+China,Year2022,The Plant Journal,29
+China,Year2022,Plant Biotechnology Journal,19
+China,Year2022,other_publication,116
+China,Year2020,Horticulture Research,21
+China,Year2020,Direct Submission,10
+China,Year2020,other_publication,109
+China,Year2023,Nature Plants,11
+China,Year2023,Horticulture Research,46
+China,Year2023,Molecular Plant,11
+China,Year2023,Frontiers in Plant Science,20
+China,Year2023,Plant Communications,25
+China,Year2023,Nature Communications,14
+China,Year2023,Scientific Data,39
+China,Year2023,The Plant Journal,13
+China,Year2023,Plant Biotechnology Journal,13
+China,Year2023,other_publication,113
+Germany,Year2019,Direct Submission,29
+Germany,Year2018,Science,10
+Germany,Year2023,Journal of Integrative Plant Biology,19
